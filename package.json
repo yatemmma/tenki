@@ -1,0 +1,14 @@
+{
+  "name": "tenki",
+  "version": "0.0.1",
+  "description": "How is the tenki today?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "yatemmma",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio-httpcli": "^0.6.9"
+  }
+}
